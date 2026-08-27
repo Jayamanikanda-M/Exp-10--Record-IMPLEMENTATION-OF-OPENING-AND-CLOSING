@@ -81,21 +81,22 @@ plt.axis('off')
 # Output:
 Original Image
 
-<img width="570" height="450" alt="image" src="https://github.com/user-attachments/assets/4f9914d4-afbf-45e4-81da-750317131815" />
+<img width="557" height="447" alt="image" src="https://github.com/user-attachments/assets/80931fac-9820-4212-ad6f-987e7358e9ce" />
 
 
 The input image is displayed. The image serves as the source for morphological processing.
 
 Opening Operation
+<img width="560" height="451" alt="image" src="https://github.com/user-attachments/assets/a64ad549-58d6-422a-bd63-1ee85e844179" />
 
-<img width="436" height="422" alt="image" src="https://github.com/user-attachments/assets/9ea97bea-1b79-47a9-978c-d6db5630269d" />
 
 
 Original image is displayed. Opened image is displayed. Small foreground noise is removed. Thin protrusions and isolated pixels are eliminated. Object boundaries become smoother.
 
 Closing Operation
 
-<img width="566" height="442" alt="image" src="https://github.com/user-attachments/assets/cf3c83f8-1080-4e6d-9eb0-d50552cb48ab" />
+<img width="590" height="442" alt="image" src="https://github.com/user-attachments/assets/63311fbc-f00b-458c-899f-0a17477bba7e" />
+
 
 Original image is displayed. Closed image is displayed. Small holes and gaps inside objects are filled. Broken regions are connected. Object boundaries become more continuous.
 
